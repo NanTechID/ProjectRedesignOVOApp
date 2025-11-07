@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
   2. Amelia Hadi N <br>
   Preview project aplikasi
   <hr>
-  <img width="448" height="989" alt="image" src="https://github.com/user-attachments/assets/c82c4acf-f065-4253-9055-7c33cc291ce3" />
+  <img width="224" height="468" alt="image" src="https://github.com/user-attachments/assets/c82c4acf-f065-4253-9055-7c33cc291ce3" />
