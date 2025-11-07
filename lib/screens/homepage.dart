@@ -428,14 +428,18 @@ class _HomepageState extends State<Homepage> {
                               end: Alignment.bottomCenter,
                               colors: [Colors.deepPurple, mainColor],
                             ),
+                            border: Border.all(
+                            color: Colors.white, // warna border
+                            width: 3,            // ketebalan border
+                          ),
                           ),
                           child: Image.asset(
                             'assets/icons/qris.png',
-                            height: 50,
+                            height: 30,
                             color: Colors.white,
                           ),
                         ),
-                        Text('qris'),
+                        Text('Pay'),
                       ],
                     ),
                   ),

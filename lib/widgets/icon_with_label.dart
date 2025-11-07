@@ -21,14 +21,12 @@ class IconWithLabel extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: onTap,
-      child: Container(
-        child: Column(
-          children: [
-            Icon(icon, color: Colors.white),
-            verticalSpacer(8),
-            whiteText(text),
-          ],
-        ),
+      child: Column(
+        children: [
+          Icon(icon, color: Colors.white),
+          verticalSpacer(8),
+          whiteText(text),
+        ],
       ),
     );
   }
