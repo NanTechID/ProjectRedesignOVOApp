@@ -17,9 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 # ProjectRedesignOVOApp
 <b>Project Praktikum UTS</b> 
 - Membuat tampilan desain aplikasi dompet digital (OVO)
-- Project ini dikerjakan oleh :
-  1. Isnan Setiadi
-  2. Amelia Hadi N <br>
+- Project ini dikerjakan oleh : <b>
+  1. Isnan Setiadi (23040051)
+  2. Amelia Hadi N (23040034)
+     </b> <br>
   Preview project aplikasi
   <hr>
   <img width="448" height="936" alt="image" src="https://github.com/user-attachments/assets/c82c4acf-f065-4253-9055-7c33cc291ce3" />
